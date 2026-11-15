@@ -3,6 +3,7 @@ site_description: Учебная документация по проверке 
 site_author: "Исаев Иса Абдулмуслимович"
 repo_name: iisa47642/devops-docs
 repo_url: https://github.com/iisa47642/devops-docs
+edit_uri: edit/main/docs/
 theme:
   name: mkdocs
   locale: ru
